@@ -1,2 +1,2 @@
 # pithos
-Knowledge storage
+Sort new knowledge first by category then by language
